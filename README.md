@@ -4,7 +4,11 @@ A simple to tool to view the amount of money going in, out, and saved for each m
 ## Requirements
 - Python 3
 
+## Setup
+Rename `.api_key.example` to `.api_key` and replace the contents of the file with the API key you got from https://developer.up.com.au/#getting-started.
+
 ## Usage
+Run the script:
 ```
 $ python main.py
 Fetching new transactions...
