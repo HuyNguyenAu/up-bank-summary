@@ -1,0 +1,4 @@
+.api_key
+*.db
+*.log
+__pycache__
