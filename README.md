@@ -28,5 +28,5 @@ Year   Month   Money Saved   Money In   Money Out
 ## Why
 I wanted a simple and portable program that simply calculates how much I saved for each month of the year.
 
-## Why didn't you separate the SQL queries from the code?
+## Why didn't you seperate the SQL queries from the code?
 I wanted a single self contained script that I can easily move around.
